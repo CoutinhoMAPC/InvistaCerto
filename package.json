@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev" 
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,9 @@
   "dependencies": {
     "next": "^10.0.5",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-data-table-component": "^7.0.0-alpha-5",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1",
+    "xlsx": "^0.16.9"
   }
 }
